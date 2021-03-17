@@ -1,6 +1,6 @@
 # About Me
 
-| Name	| Designation  	| Core Experites  	| Experiance  	| Portfolio Website
+| Name	| Designation  	| Core Expertise  	| Experiance  	| Portfolio Website
 |---	|---	|---	|---	|---   |
 | Sajjad Umar (@SUMAR7)  	| Sr. Software Engineer  	| Ruby on Rails (Back-end)  	|   4 Years & 3 Months	| [www.sajjadumar.com](https://www.sajjadumar.com/) |
 
