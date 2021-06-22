@@ -2,7 +2,7 @@
 
 | Name	| Designation  	| Core Expertise  	| Experiance  	| Portfolio Website
 |---	|---	|---	|---	|---   |
-| Sajjad Umar (@SUMAR7)  	| Sr. Software Engineer  	| Ruby on Rails (Back-end)  	|   4 Years & 3 Months	| [www.sajjadumar.com](https://www.sajjadumar.com/) |
+| Sajjad Umar (@SUMAR7)  	| Sr. Software Engineer  	| Ruby on Rails 	|   4 Years & 6 Months	| [www.sajjadumar.com](https://www.sajjadumar.com/) |
 
 # My Story
 
@@ -16,7 +16,7 @@ Fast forward 2 years, I changed my major from Electrical Engineering to Computer
 
 I started my first Internship as a Junior Android Application Developer at a small gaming studio called PlumZ Studios when I was in the 6th semester.
 
-And currently I'm working as a Sr. Software Engineer and Team Lead at Tiksom Limited. 
+And currently I'm working as a Sr. Software Engineer at a multi-national company, along with working on multiple free tools like [TheTestRequest](https://thetestrequest.com) in my free time. 
 
 <!---
 SUMAR7/SUMAR7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
