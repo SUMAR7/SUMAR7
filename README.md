@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 
 **HIRE ME ON**
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/2560px-Upwork-logo.svg.png" width="50"/>](upwork.com/freelancers/~01f99b970abf38d1c4?viewMode=1&s=1110580748673863680)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/2560px-Upwork-logo.svg.png" width="150"/>](https://www.upwork.com/freelancers/~01f99b970abf38d1c4?s=1110580748673863680)
