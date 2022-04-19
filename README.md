@@ -2,7 +2,7 @@
 
 | Name	| Designation  	| Core Expertise  	| Experiance  	| Portfolio Website | Hire Me
 |---	|---	|---	|---	|---   |---   |
-| Sajjad Umar (@SUMAR7)  	| Sr. Software Engineer  	| Ruby on Rails |   5+ Years	| [www.sajjadumar.com](https://www.sajjadumar.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/2560px-Upwork-logo.svg.png" width="50"/>](https://www.upwork.com/freelancers/~01f99b970abf38d1c4?s=1110580748673863680) **OR** [<img src="https://iconape.com/wp-content/files/bb/61806/svg/fiverr-1.svg" width="30"/>]( https://www.fiverr.com/sajjadumar)
+| Sajjad Umar (@SUMAR7)  	| Sr. Software Engineer  	| Ruby on Rails |   5+ Years	| [www.sajjadumar.com](https://www.sajjadumar.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/2560px-Upwork-logo.svg.png" width="50"/>](https://www.upwork.com/freelancers/~01f99b970abf38d1c4?s=1110580748673863680)  [<img src="https://iconape.com/wp-content/files/bb/61806/svg/fiverr-1.svg" width="30"/>]( https://www.fiverr.com/sajjadumar)
  |
 
 # My Story
@@ -21,7 +21,7 @@ And currently I'm working as a Sr. Software Engineer at a multi-national company
 
 # HIRE ME ON
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/2560px-Upwork-logo.svg.png" width="150"/>](https://www.upwork.com/freelancers/~01f99b970abf38d1c4?s=1110580748673863680) **OR** [<img src="https://iconape.com/wp-content/files/bb/61806/svg/fiverr-1.svg" width="80"/>]( https://www.fiverr.com/sajjadumar)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/2560px-Upwork-logo.svg.png" width="150"/>](https://www.upwork.com/freelancers/~01f99b970abf38d1c4?s=1110580748673863680)   [<img src="https://iconape.com/wp-content/files/bb/61806/svg/fiverr-1.svg" width="80"/>]( https://www.fiverr.com/sajjadumar)
 
 <!---
 SUMAR7/SUMAR7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
