@@ -22,6 +22,14 @@ And currently I'm working as a Sr. Software Engineer at a multi-national company
 
 SUBSCRIBE to this [Ruby on Rails monthly newsletter](https://www.linkedin.com/newsletters/ruby-on-rails-6923566487630675968) to stay on top of updates from RoR world. 
 
+# COMMUNITY WORK - YOUTUBE CHANNEL
+
+SUBSCRIBE to my Youtube channel to learn in a uniqe Desi style - [Desi Developer](https://www.youtube.com/channel/UCx3wocdBE3pSMWB2i6g-iBQ)
+
+# SUPPORT ME by BUYING FORM `DESI DEVELOPER` MERCH
+
+Link: [desidev.shop](https://www.desidev.shop/)
+
 # HIRE ME ON
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/2560px-Upwork-logo.svg.png" width="150"/>](https://www.upwork.com/freelancers/~01f99b970abf38d1c4?s=1110580748673863680)   [<img src="https://iconape.com/wp-content/files/bb/61806/svg/fiverr-1.svg" width="80"/>]( https://www.fiverr.com/sajjadumar)
