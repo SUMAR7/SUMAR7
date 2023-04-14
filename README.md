@@ -6,7 +6,7 @@
 
 # My Story
 
-I'm Sajjad Umar, Sr. Software Engineer having 5+ years of development experience in RoR ServerSide development.
+I'm Sajjad Umar, Sr. Software Engineer having 6+ years of development experience in RoR ServerSide development.
 
 It all started back in 2011 when my brother used to attend his Intermediate in Computer Science classes while I wait for him right outside the class so we both can go home together.
 
