@@ -1,35 +1,73 @@
-# About Me
+markdown
+<div align="center">
 
-| Name	| Designation  	| Core Expertise  	| Experiance |
-|---	|---	|---	|---  |
-| Sajjad Umar (@SUMAR7)  	| Sr. Software Engineer  	| Ruby on Rails |   9+ Years
+# Hey, I'm Sajjad Umar 👋
 
-# My Story
+**Lead Backend Engineer · Ruby on Rails Author · Community Builder**
 
-I'm Sajjad Umar, a Senior Software Engineer with over 9 years of experience in Ruby on Rails server-side development.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumar7)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sajjadumar)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@desi-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajjadumardev@gmail.com)
 
-My journey began in 2011 when I would accompany my brother to his Intermediate in Computer Science classes. While waiting outside, I was invited by his teacher to sit in. That was the day I discovered algorithms, sparking my passion for programming. Attending those classes taught me the fundamentals of programming, including control structures, data structures, loops, and other core concepts.
+</div>
 
-Two years later, I shifted my major from Electrical Engineering to Computer Science and completed my Bachelor's in Information Technology, with a final year project focused on Android application development.
+---
 
-I began my career with an internship as a Junior Software Engineer at PlumZ Studios, a small gaming studio, during my 6th semester. Currently, I work as a Senior Software Engineer at a multinational company and also develop free tools like [TheTestRequest](https://thetestrequest.com) in my spare time.
+### 🧑‍💻 About Me
 
-# MONTHLY NEWSLETTER
+- 🔴 **Lead Backend Engineer** at [UMAI](https://umai.io) — restaurant management platform serving businesses globally
+- 📕 **Author** of *Ruby on Rails for Agile Web Development*
+- 🇵🇰 **Organizer** of [RubyConf Pakistan](https://rubyconfpk.org) — building Pakistan's Ruby community
+- 🏗️ **10+ years** shipping production Ruby on Rails
+- 🍔 **Founder** of [Masosa Cafe](https://masosa.pk) — Where Every Bite Tells a Story
 
-SUBSCRIBE to this [Ruby on Rails monthly newsletter](https://www.linkedin.com/newsletters/ruby-on-rails-6923566487630675968) to stay on top of updates from RoR world. 
+---
 
-# COMMUNITY WORK - YOUTUBE CHANNEL
+### 🛠️ Tech Stack
 
-SUBSCRIBE to my Youtube channel to learn in a unique Desi style - [Desi Developer](https://www.youtube.com/channel/UCx3wocdBE3pSMWB2i6g-iBQ)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Sidekiq](https://img.shields.io/badge/Sidekiq-B1003E?style=flat-square&logo=sidekiq&logoColor=white)
+![Hotwire](https://img.shields.io/badge/Hotwire-FFE801?style=flat-square&logo=stimulus&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-# Want to work with me? 
-Get in touch at LinkedIn [https://www.linkedin.com/in/sumar7](https://www.linkedin.com/in/sumar7/) or email me at [sajjadumardev@gmail.com](mailto:sajjadumardev@gmail.com).
+---
 
-# SUPPORT ME by BUYING FORM `DESI DEVELOPER` MERCH
+### ✍️ Latest on Medium
 
-Link: [desidev.shop](https://www.desidev.shop/)
+I write about Rails architecture, backend engineering, and lessons from a decade in the trenches.
 
-<!---
-SUMAR7/SUMAR7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👉 [**Follow me on Medium →**](https://medium.com/@sajjadumar)
+
+---
+
+### 📺 Content
+
+- 🎓 [**Desi Developer**](https://www.youtube.com/@desi-dev) — Dev tutorials, Rails deep-dives, learning sessions
+- ⌚ [**Budget Watch Collector**](https://www.youtube.com/@budgetwatchcollector) — Honest budget watch reviews
+- 📰 [**Rails Monthly Newsletter**](https://www.linkedin.com/newsletters/ruby-on-rails-6923566487630675968) — Curated Ruby on Rails updates
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SUMAR7&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SUMAR7&theme=radical&hide_border=true" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Building software that matters. One commit at a time.** 🚀
+
+</div>
