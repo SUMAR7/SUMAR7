@@ -1,4 +1,3 @@
-markdown
 <div align="center">
 
 # Hey, I'm Sajjad Umar 👋
@@ -59,8 +58,7 @@ I write about Rails architecture, backend engineering, and lessons from a decade
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SUMAR7&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SUMAR7&theme=radical&hide_border=true" height="165" />
+<img src="https://streak-stats.demolab.com/?user=SUMAR7&theme=radical&hide_border=true" height="165" />
 
 </div>
 
