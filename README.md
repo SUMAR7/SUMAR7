@@ -2,11 +2,11 @@
 
 | Name	| Designation  	| Core Expertise  	| Experiance |
 |---	|---	|---	|---  |
-| Sajjad Umar (@SUMAR7)  	| Sr. Software Engineer  	| Ruby on Rails |   7+ Years
+| Sajjad Umar (@SUMAR7)  	| Sr. Software Engineer  	| Ruby on Rails |   9+ Years
 
 # My Story
 
-I'm Sajjad Umar, a Senior Software Engineer with over 7 years of experience in Ruby on Rails server-side development.
+I'm Sajjad Umar, a Senior Software Engineer with over 9 years of experience in Ruby on Rails server-side development.
 
 My journey began in 2011 when I would accompany my brother to his Intermediate in Computer Science classes. While waiting outside, I was invited by his teacher to sit in. That was the day I discovered algorithms, sparking my passion for programming. Attending those classes taught me the fundamentals of programming, including control structures, data structures, loops, and other core concepts.
 
